@@ -542,15 +542,15 @@
         }
       },
       "screenshots": [
-        "https://www.gran-turismo.com/images/screenshot1.jpg",
-        "https://www.gran-turismo.com/images/screenshot2.jpg"
+        "https://esports.as.com/2017/10/03/bonus/videojuegos/Gran-Turismo-Sport_1068803131_25400_1440x600.jpg",
+        "https://img.lavdg.com/sc/bBxQfCCE1eHILRCCYPzw3EaIQ4I=/768x/2022/03/21/00121647892802855911115/Foto/j21m2058.jpg"
       ],
       "tags": ["Carreras", "Simulación", "Deportes", "Autos"]
     },
     {
       "id": 17,
       "nombre": "The Legend of Zelda: BOTW",
-      "imagen": "https://www.zelda.com/breath-of-the-wild/assets/media/header/Main-Day.jpg",
+      "imagen": "https://static1.srcdn.com/wordpress/wp-content/uploads/2017/03/The-Legend-of-Zelda-Breath-of-the-Wild-Review.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5",
       "categoria": "adventure",
       "desarrollador": "Nintendo EPD",
       "fechaLanzamiento": "2017-03-03",
@@ -576,8 +576,8 @@
         }
       },
       "screenshots": [
-        "https://www.zelda.com/breath-of-the-wild/assets/media/screenshots/screenshot1.jpg",
-        "https://www.zelda.com/breath-of-the-wild/assets/media/screenshots/screenshot2.jpg"
+        "https://platform.polygon.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8710173/the_legend_of_zelda_breath_of_the_wild_hard_mode_battle_1920.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=1080",
+        "https://cdn.wccftech.com/wp-content/uploads/2016/06/The-Legend-of-Zelda-Breath-of-the-Wild.jpg"
       ],
       "tags": ["Aventura", "Exploración", "Mundo Abierto", "Épico"]
     }
